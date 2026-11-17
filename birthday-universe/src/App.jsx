@@ -6,42 +6,42 @@ const memories = [
   {
     title: "Our little moments",
     caption: "This was the moment when I was dying to get close to you and somehow I couldn't yet I got the courage made this moment.",
-    image: "public/Photos/Memory-1.jpg",
+    image: "/Photos/Memory-1.jpg",
   },
   {
     title: "First Meeting As A Couple",
     caption: "I will never forget the moment we first met I was ridiculously nervous to see you but when I saw you, I knew I had WON the Battle of Life.",
-    image: "public/Photos/Memory-2.jpg",
+    image: "/Photos/Memory-2.jpg",
   },
   {
     title: "Our First Kiss",
     caption: "Well to be Honest I wasn't expecting it to happen but it did and I could not have expected more from you , I loved it, I really really did.",
-    image: "public/Photos/Memory-3.jpg",
+    image: "/Photos/Memory-3.jpg",
   },
   {
     title: "Ganga Ghat",
     caption: "You know this , but If I say this one was in my bucket list. Thank you for this and everything like loving me and being with me.",
-    image: "public/Photos/Memory-4.jpg",
+    image: "/Photos/Memory-4.jpg",
   },
   {
     title: "My Peace, My Everything",
     caption: "I want you messy , troubled , Angry and all the other ways you exist.",
-    image: "public/Photos/Memory-5.jpg",
+    image: "/Photos/Memory-5.jpg",
   },
   {
     title: "My Future, My Forever",
     caption: "If only you were here with me, you would know How much I need you right now ,I would never let you go.",
-    image: "public/Photos/Memory-6.jpg",
+    image: "/Photos/Memory-6.jpg",
   },
   {
     title: "My love, My Life , My Wife",
     caption: "Loving you is not enough now I want to spend my life with you , Marry You.",
-    image: "public/Photos/Memory-7.jpg",
+    image: "/Photos/Memory-7.jpg",
   },
   {
     title: "My Reason to Success and Happiness",
     caption: "You see this face! yes, this is the reason I keep going, the reason I smile, the reason I am happy, the reason I want to be successful, the reason I want to be a better person, the reason I want to be a better man, the reason I want to be a better boyfriend, the reason I want to be a better husband,  the reason I want to be a better human being.",
-    image: "public/Photos/Memory-8.jpg",
+    image: "/Photos/Memory-8.jpg",
   },
 ];
 
